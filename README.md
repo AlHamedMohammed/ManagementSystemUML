@@ -24,7 +24,7 @@ This repository contains UML diagrams for a Project Management System. The syste
 
 📥 Clone the repository:
 
-git clone https://github.com/AlHamedMohammed/le-site-de-r-servation-UML.git
+git clone https://github.com/AlHamedMohammed/ManagementSystemUML.git
 
 📂 Open the UML diagrams using:
 
