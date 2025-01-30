@@ -1,52 +1,50 @@
 Project Management System UML
 
-Overview
+🚀 Overview
 
 This repository contains UML diagrams for a Project Management System. The system is designed to help teams efficiently plan, execute, and track project progress using well-defined project management principles.
 
-UML Diagrams Included
+📌 UML Diagrams Included
 
-Use Case Diagram: Defines the interaction between users (Project Manager, Team Member, Client) and the system.
+📌 Use Case Diagram: Defines the interaction between users (Project Manager, Team Member, Client) and the system.
 
-Class Diagram: Illustrates the key classes and their relationships, including Project, Task, TeamMember, and Client.
+📌 Class Diagram: Illustrates the key classes and their relationships, including Project, Task, TeamMember, and Client.
 
-Activity Diagram: Represents the workflow from project creation to completion.
+📌 Activity Diagram: Represents the workflow from project creation to completion.
 
-Sequence Diagram: Shows the interaction between the Project Manager, Team Member, and System when handling tasks.
+📌 Sequence Diagram: Shows the interaction between the Project Manager, Team Member, and System when handling tasks.
 
-State Diagram: Depicts the different states a project can be in, from initiation to closure.
+📌 State Diagram: Depicts the different states a project can be in, from initiation to closure.
 
-Features Modeled
+🛠 Features Modeled
 
-Project creation and management
+✅ Project creation and management✅ Task assignment and tracking✅ Team collaboration✅ Progress monitoring and reporting✅ Project closure
 
-Task assignment and tracking
+📖 How to Use
 
-Team collaboration
+📥 Clone the repository:
 
-Progress monitoring and reporting
+git clone https://github.com/AlHamedMohammed/le-site-de-r-servation-UML.git
 
-Project closure
+📂 Open the UML diagrams using:
 
-How to Use
+StarUML
 
-Clone the repository:
+Lucidchart
 
-git clone https://github.com/your-username/project-management-uml.git
+PlantUML
 
-Open the UML diagrams using a UML modeling tool such as StarUML, Lucidchart, or PlantUML.
+📌 Use these diagrams as a reference for developing a project management system.
 
-Use these diagrams as a reference for developing a project management system.
+🤝 Contributing
 
-Contributing
+🛠 Contributions are welcome! If you would like to improve or add diagrams, please fork the repository and submit a pull request.
 
-Contributions are welcome! If you would like to improve or add diagrams, please fork the repository and submit a pull request.
-
-License
+📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+📩 Contact
 
 For any questions or feedback, feel free to reach out via GitHub Issues.
 
